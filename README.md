@@ -10,8 +10,6 @@ This is a demo project of using Responsible AI technology provided by TFX to bui
 
 The way actual users experience your system is essential to assessing the true impact of its predictions, recommendations, and decisions. Make sure to get input from a diverse set of users early on in your development process.
 
-Use the following resources to design models with Responsible AI in mind.
-
 ### Construct and prepare data
 
 #### Am I using a representative dataset?
@@ -22,15 +20,11 @@ Is your data sampled in a way that represents your users (e.g. will be used for 
 
 Underlying biases in data can contribute to complex feedback loops that reinforce existing stereotypes.
 
-Use the following tools to examine data for potential biases.
-
 ### Build and train model
 
 #### What methods should I use to train my model?
 
 Use training methods that build fairness, interpretability, privacy, and security into the model.
-
-Use the following tools to train models using privacy-preserving, interpretable techniques, and more.
 
 ### Evaluate model
 
@@ -38,15 +32,11 @@ Use the following tools to train models using privacy-preserving, interpretable 
 
 Evaluate user experience in real-world scenarios across a broad spectrum of users, use cases, and contexts of use. Test and iterate in dogfood first, followed by continued testing after launch.
 
-Debug, evaluate, and visualize model performance using the following tools.
-
 ### Deploy and monitor
 
 #### Are there complex feedback loops?
 
 Even if everything in the overall system design is carefully crafted, ML-based models rarely operate with 100% perfection when applied to real, live data. When an issue occurs in a live product, consider whether it aligns with any existing societal disadvantages, and how it will be impacted by both short- and long-term solutions.
-
-Use the following tools to track and communicate about model context and details.
 
 # Reference
 https://www.tensorflow.org/resources/responsible-ai
