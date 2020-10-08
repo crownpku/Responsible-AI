@@ -1,6 +1,6 @@
 # Responsible AI
 
-This is a demo project of using Responsible AI technology provided by TFX to build responsible machine learning applications.
+This is a demo project of using Responsible AI technology provided by Google to build responsible machine learning applications.
 
 ## Content
 
