@@ -1,5 +1,7 @@
 # Responsible AI
 
+![](imgs/responsible-ai.png)
+
 This is a demo project of using Responsible AI technology provided by Google to build responsible machine learning applications.
 
 ## Content
