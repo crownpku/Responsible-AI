@@ -32,7 +32,7 @@ Use training methods that build fairness, interpretability, privacy, and securit
 
 Evaluate user experience in real-world scenarios across a broad spectrum of users, use cases, and contexts of use. Test and iterate in dogfood first, followed by continued testing after launch.
 
-![](/imgs/what-if-tool-insurance.png)
+![](/imgs/equal_accuracy.png)
 
 ### Deploy and monitor
 
